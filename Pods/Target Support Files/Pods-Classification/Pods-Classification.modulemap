@@ -1,0 +1,6 @@
+module Pods_Classification {
+  umbrella header "Pods-Classification-umbrella.h"
+
+  export *
+  module * { export * }
+}
